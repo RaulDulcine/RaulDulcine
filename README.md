@@ -8,7 +8,7 @@
 ## 🌑 About Me
 Estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolvimento back-end, arquitetura de soluções e modelagem de dados.
 
-* 🌙 Atualmente no segundo período de ADS no Senac.
+* 🌙 Atualmente no terceiro período de ADS no Senac.
 * ⚔️ Focado em engenharia de software com Python e estruturação de bancos de dados relacionais.
 * 🦇 Desenvolvendo projetos modulares com foco em usabilidade e integração de sistemas.
 
